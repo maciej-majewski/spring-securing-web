@@ -1,2 +1,3 @@
 # spring-securing-web
-Project for Spring Security
+Spring Boot App with securing web (login) and Docker.
+
